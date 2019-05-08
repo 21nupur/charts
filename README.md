@@ -2,11 +2,11 @@ This website represents the data in form of charts, two libraries are used to cr
 one is charts.js and the other one is highcharts.
 The data that is used , is in two forms:
 
-a. Static Data
+a. Static Data--
    I have created a table that shows the distrubutio of different nutrient in the given desserts
    
    
-b. Dynamic Data
+b. Dynamic Data--
    I have used an API that reperesent the comparision length of buildings(in meter).
    I have used a pre built API - 'https://swapi.co/api/people/'
 
